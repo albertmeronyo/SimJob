@@ -1,0 +1,37 @@
+year,file,province,classification_system,issues
+1889,BRT_1889_03_T1.xls,Groningen,1,First municipality blank; probably Groningen
+1889,BRT_1889_04_T1.xls,Friesland,1,
+1889,BRT_1889_05_T1.xls,Drenthe,1,
+1889,BRT_1889_06_T1.xls,Overijssel,1,
+1889,BRT_1889_07_T1.xls,Gelderland,1,
+1889,BRT_1889_08_T1.xls,Noordholland,1,
+1889,BRT_1889_09_T1.xls,Zuidholland,1,
+1889,BRT_1889_10_T1.xls,Zeeland,1,
+1889,BRT_1889_11_T1.xls,Utrecht,1,
+1889,BRT_1889_12_T1.xls,Noordbrabant,1,
+1889,BRT_1889_13_T1.xls,Limburg,1,
+1899,BRT_1899_01_T.xls,Noordbrabant,1,
+1899,BRT_1899_02_T.xls,Gelderland,1,
+1899,BRT_1899_03_T.xls,Zuidholland,1,
+1899,BRT_1899_04_T.xls,Noordholland,1,
+1899,BRT_1899_05_T.xls,Zeeland,1,
+1899,BRT_1899_06_T.xls,Utrecht,1,
+1899,BRT_1899_07_T.xls,Friesland,1,
+1899,BRT_1899_08_T.xls,Overijssel,1,
+1899,BRT_1899_09_T.xls,Groningen,1,
+1899,BRT_1899_10_T.xls,Drenthe,1,
+1899,BRT_1899_11_T.xls,Limburg,1,
+1909,BRT_1909_01_T.xls,all,2,
+1920,BRT_1920_01_S1.xls,all,3,Municipalities are fuzzy and in columns
+1920,BRT_1920_01_S2.xls,all,3,Municipalities are fuzzy and in columns
+1930,BRT_1930_07_S1.xls,all,3,Municipalities are fuzzy and in columns
+1947,BRT_1947_A2_T13.xls,all,4,Only some big cities
+1947,BRT_1947_A2_T14.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_A2_T15.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_A2_T16.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_A2_T17.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_A2_T18.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_A2_T19.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_A2_T20.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_A2_T21.xls,all,4,Provinces + some big cities; very low detail on occupations; all countings probably the same but considering different partitions
+1947,BRT_1947_B6_T.xls,all,4,"All municipalities, but no specific occupation info (join with others?)"
